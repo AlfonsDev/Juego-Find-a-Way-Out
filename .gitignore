@@ -28,6 +28,7 @@ UserSettings/
 *.VC.db
 
 # VSCode y Rider
+.vs/
 .vscode/
 .idea/
 *.code-workspace
