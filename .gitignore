@@ -1,0 +1,74 @@
+# ========== UNITY ==========
+
+# Archivos y carpetas generadas automáticamente por Unity
+[Librerías Unity que no deben subirse]
+[Librerías Unity generadas automáticamente]
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# Archivos del sistema de Unity
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# VSCode y Rider
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos personales y de configuración local
+*.swp
+*.bak
+*.tmp
+*.old
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de paquetes descargados
+Packages/com.unity.*
+Packages/manifest.json
+
+# Unity Cache
+*.unitypackage
+*.apk
+*.aab
+*.keystore
+
+# Archivos de builds exportadas
+*.exe
+*.app
+*.msi
+*.ipa
+*.xcodeproj
+*.xcworkspace
+
+# Archivos de lock
+*.lock
+npm-debug.log*
+
+# JetBrains Rider
+.idea/
+
+# Crash reports
+sysinfo.txt
+
+# ========== FIN ==========
